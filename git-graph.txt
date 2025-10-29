@@ -1,0 +1,24 @@
+* 9fd5bf1 (HEAD -> main, origin/main, origin/HEAD) docs: Added CHANGELOG
+* b506e5e docs: Added GIT_JOURNEY
+| * f4025f3 (feature/another-feature) feat:Add test Feature
+|/  
+| * 1c20f53 (origin/feature/another-feature) feat:Add test Feature
+|/  
+* c31a407 (tag: v1.1.0, tag: v1.0.0) docs: Update README.md
+* 1b647eb feat: Add new feature
+* bbd7b22 docs:Add FAQ section
+| * 9f6f6e5 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* c6e6b0c updated READMR.md
+*   dcbf771 merge: Resolve all conflicts between main and conflict-simlator  branc
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 6ebd4b2 chore: update main entry and scripts to use scripts/monitor.js instead of server.js.
+* |   db1760f merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
